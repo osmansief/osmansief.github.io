@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osmansief.github.io/sitemap.xml
